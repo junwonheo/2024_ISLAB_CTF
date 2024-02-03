@@ -1,0 +1,2 @@
+User-agent: *
+Disallow: /c0re_system.php

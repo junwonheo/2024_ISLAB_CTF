@@ -1,0 +1,2 @@
+User-agent: *
+Disallow: /flag{MY_BOSS_1S_C0MING}
